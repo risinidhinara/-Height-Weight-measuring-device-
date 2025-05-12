@@ -12,7 +12,7 @@ Measuring human height accurately is important in many fields, including healthc
 <img src="Media/device_1.jpg" alt="Measure-Up device" width="350"/>
 </p>
 
-### 1.1 Problem Description
+### 1.1 Problem Description.
 
 Traditional methods of measuring height, such as using a measuring tape or stadiometer, require the assistance of a second person, which can be time-consuming and inconvenient. These methods have limitations that can lead to inaccurate measurements and inconvenience for both the person being measured and the person performing the measurement. Additionally, some individuals may experience discomfort or self-consciousness when being measured by another individual, which can lead to inaccurate measurements.
 
